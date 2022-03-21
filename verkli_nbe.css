@@ -1,0 +1,48 @@
+body {
+    background-color: #aaaaaa;
+    width: 1000px;
+    margin: auto;
+    font-style: italic;
+}
+
+.container {
+    background-color: #90cecc;
+    width: 90%;
+    margin: 10px;
+}
+
+.container .header {
+    background-color: #A9E198;
+    height: 190px;
+    margin: 10px;
+}
+
+h1 {
+    position: absolute;
+    top: 4%;
+    margin: 10px;
+    color: #870000;
+    font-size: 52px;
+    font-family: Calibri;
+}
+
+.container .inner-container {
+    background-color: #ffffa0;
+    width: 90%;
+    height: 700px;
+    margin: auto;
+}
+
+.container .inner-container .aside {
+    float: left;
+    background-color: #caf7ad;
+    width: 20%;
+    height: 400px;
+    position: relative;
+}
+
+.container .inner-container .aside img {
+    position: absolute;
+    top: 280px;
+    right: -10px;
+}
